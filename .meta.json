@@ -1,0 +1,25 @@
+{
+  "name": "Adri's Nail Studio",
+  "town": "Oswego IL",
+  "type": "nail salon",
+  "address": "75 W Van Buren St, Oswego, IL 60543",
+  "phone": "3315750719",
+  "checklistComplete": 8,
+  "researchStartedAt": "2026-05-30T05:09:00Z",
+  "stage1FinishedAt": "2026-05-30T05:21:00Z",
+  "bookingUrl": "https://adrisnailstudio.glossgenius.com/",
+  "aiAssets": {
+    "logo": {
+      "source": "text_wordmark",
+      "url": null,
+      "note": "FB Graph binary fetch blocked by sandbox egress; styled serif wordmark"
+    },
+    "hero": {
+      "source": "css_gradient_unsplash",
+      "generated": false,
+      "note": "CSS radial-gradient editorial hero + Unsplash; Canva export hosting blocked"
+    },
+    "galleryEdited": false,
+    "galleryNote": "Adobe binary egress blocked; Unsplash + CSS grade per documented per-asset fallback"
+  }
+}
